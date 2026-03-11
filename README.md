@@ -26,5 +26,4 @@ The PerfDash Productivity Dashboard is an interactive Power BI analytics dashboa
 - Implemented filters and slicers to allow dynamic exploration of weekly and daily productivity trends.
 
 ## Dashboard
-<img width="1261" height="635" alt="Dashboard" src="<img width="1303" height="737" alt="image" src="https://github.com/user-attachments/assets/1d950c00-b761-4282-b77d-265f6284f437" />
-" />
+<img width="1261" height="635" alt="Dashboard" src="https://github.com/user-attachments/assets/1d950c00-b761-4282-b77d-265f6284f437" />
