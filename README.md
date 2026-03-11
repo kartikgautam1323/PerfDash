@@ -14,7 +14,7 @@ The PerfDash Productivity Dashboard is an interactive Power BI analytics dashboa
 - How much sleep and break time was recorded across weeks?
 - What is the overall productivity performance score based on tracked metrics?
   
-- Dashboard Interaction <a href="https://github.com/kartikgautam1323/TrackFit/blob/main/Dashboard.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/kartikgautam1323/PerfDash/blob/main/Dashboard.png">View Dashboard</a>
 
 ## Process
 - Imported productivity dataset into Power BI.
@@ -26,4 +26,4 @@ The PerfDash Productivity Dashboard is an interactive Power BI analytics dashboa
 - Implemented filters and slicers to allow dynamic exploration of weekly and daily productivity trends.
 
 ## Dashboard
-<img width="1261" height="635" alt="Dashboard" src="https://github.com/user-attachments/assets/56dba953-bc93-47e9-a746-d6941570807e" />
+<img width="1261" height="635" alt="Dashboard" src="https://github.com/kartikgautam1323/PerfDash/blob/main/Dashboard.png" />
